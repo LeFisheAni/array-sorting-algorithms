@@ -1,1 +1,1 @@
-# array-sorting-algorithms
+# Sorting Algorithm for Int arrays
